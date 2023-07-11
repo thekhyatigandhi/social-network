@@ -6,7 +6,7 @@
 
 The Social Network Web Application API is designed to provide a comprehensive platform for users to connect, share thoughts, react to their friends' thoughts, and manage their friend lists. This readme file serves as a guide to understand the technologies and tools used in the development of this API.
 It uses `Express.js` for routing, a `MongoDB` database, the `Mongoose` ODM, and `Moment.js` to format timestamps. The seed data is created using `Insomnia`.
-Walk-through demonstration video - (https://drive.google.com/file/d/1XhKFqWquari67OGmdWZlJVQvmsOtaWQK/view?usp=sharing)
+Walk-through demonstration video - https://drive.google.com/file/d/1XhKFqWquari67OGmdWZlJVQvmsOtaWQK/view?usp=sharing
 
 ## Table of Contents 📖
 
@@ -77,7 +77,7 @@ After installation :
 
 ## Tests
 
-Insomnia is an invaluable tool for testing REST API calls and ensuring the functionality and correctness of our endpoints. In order to demonstrate the usage of Insomnia and provide a comprehensive understanding of how data is added and tested using this tool, I have prepared walk-through demonstration video - (https://drive.google.com/file/d/1XhKFqWquari67OGmdWZlJVQvmsOtaWQK/view?usp=sharing)
+Insomnia is an invaluable tool for testing REST API calls and ensuring the functionality and correctness of our endpoints. In order to demonstrate the usage of Insomnia and provide a comprehensive understanding of how data is added and tested using this tool, I have prepared walk-through demonstration video - https://drive.google.com/file/d/1XhKFqWquari67OGmdWZlJVQvmsOtaWQK/view?usp=sharing
 
 ## Contribution
 

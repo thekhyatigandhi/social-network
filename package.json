@@ -14,8 +14,11 @@
     
     "homepage": " ",
     "dependencies": {
-      "express": "^4.18.1",
+      "express": "^4.17.1",
       "moment": "^2.29.3",
-      "mongoose": "^6.3.4"
+      "mongoose": "^7.0.2"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.0"
     }
   }
